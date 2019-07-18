@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+-<resources>
+
+<!-- Primary color of the app (shown in the app bar) -->
+
+
+<color name="primary_color">#673ab7</color>
+
+<!-- Primary dark color of the app (shown in the status bar) -->
+
+
+<color name="primary_dark_color">#512da8</color>
+
+<!-- Background color for app -->
+
+
+<color name="tan_background">#FFF7DA</color>
+
+<!-- Background color for the welcome category -->
+
+
+<color name="category_welcome">#b39ddb</color>
+
+<color name="category_about">#d1c4e9</color>
+
+<color name="category_sighseeing">#d1c4e9</color>
+
+<color name="category_places">#d1c4e9</color>
+
+<color name="category_cafes">#d1c4e9</color>
+
+<color name="category_galery">#d1c4e9</color>
+
+<color name="category_phones">#d1c4e9</color>
+
+<color name="category_top">#d1c4e9</color>
+
+<color name="category_geography">#d1c4e9</color>
+
+<color name="category_history">#d1c4e9</color>
+
+<color name="category_settlements">#d1c4e9</color>
+
+<color name="category_society">#d1c4e9</color>
+
+<color name="category_people">#d1c4e9</color>
+
+<color name="category_nested">#ede7f6</color>
+
+<color name="colorAccent">#FFAB91</color>
+
+</resources>
