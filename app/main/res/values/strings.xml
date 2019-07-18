@@ -1,0 +1,1088 @@
+<resources>
+
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Čačak Tour Guide</string>
+
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_welcome">Click here to start Čačak Tour Guide App</string>
+
+    <string name="category_about">About Čačak </string>
+
+    <string name="category_sighseeing">Sighseeing places</string>
+
+    <string name="category_places">Accommodation</string>
+
+    <string name="category_cafes"> Cafes and restaurants</string>
+
+    <string name="category_galery">Gallery</string>
+
+    <string name="category_phones">Useful phones</string>
+    <string name="title_activity_scrolling">Top informations </string>
+    <string name="category_top">Čacak top information</string>
+    <string name="category_geography">Geography</string>
+    <string name="category_history">History</string>
+    <string name="category_settlements">Settlements</string>
+    <string name="category_society">Society</string>
+    <string name="category_people">Important people</string>
+
+
+    <string name="large_text">
+        "Cacak \n\n"
+        </string>
+    <string name="large_text1">
+
+       "Cacak is a city that is recognizable by preserved architecture, with elements of modern construction, as well as preserved ambient units. One of the largest cities in Serbia, the city of Čačak has undergone several stages in its development. Each of these periods features rich monumental heritage and speaks of the city's life during the centuries-old history.
+        Cacak is a city of sports with a large number of sports clubs. There are numerous sports fields and facilities in the city and its surroundings where sports and recreational activities can be organized. Of course, there is the West Morava River which attracts more and more visitors with its contents. Only a few kilometers from Cacak are spas, villages, monasteries, cultural and historical monuments. Beautiful nature in Ovčarsko-Kablarska gorge, Ovčar and Kablar mountains, lakes and meanders of the Western Morava, rich flora and fauna are the reason why if you are staying in Čačak, you go on a trip to these interesting places. In the area of ​​the city and the environment, events in the field of culture are organized: "Spring of Dis", "Memorial Nadezda Petrović", biennials "Biennial of visual arts of the Balkans", "Days of photography in Serbia".
+        In the village Prislonica near Cacak, the Serbian Frulas Party is organized, the competition of the best Serbian frulas,a manifestation that fosters tradition and original folk creation. A large number of catering facilities are located in this city and this is one of the characteristics of a very diverse tourist offer. Countless summer gardens in the city and on the banks of the West Morava River attract a large number of visitors who want to spend pleasant moments with family and friends. Numerous specialties of Serbian cuisine are found in the offer of restaurants in Cacak. The impressions of domestic and foreign guests are a sufficient invitation for new visitors to get acquainted with the famous specialties of the region of Cacak. The valuable monument heritage and natural beauties around the city make Cacak a recognizable tourist destination in Serbia. Culture and tumultuous history of the city are preserved in the traces of civilizations that inhabited this city and its surroundings."
+    </string>
+    <string name="text_one">
+    "The city of Čačak is in the western part of central Serbia, 144 km south of the capital city, Belgrade. The nearest international border is with Bosnia and Hercegovina. Within the Moravica District, it has all the characteristics of the main center. Situated mostly in the western area of the flow of the West Morava river, it connects the hills of Šumadija in the north and higher regions of the interior to the south.
+        These mountains incline in a gentle and wavy way toward the Čačak valley, the town and the West Morava river.The city administrative area covers 636 square kilometres (246 sq mi) and contains:\n\n
+        1)Čačak valley with an altitude between 204 and 300 m (669 and 984 ft)\n
+        2)Hills between 300 and 500 m (980 and 1,640 ft) high and\n
+        3)Mountains:\n\n
+        -Ovčar (985 m) (W)\n,
+        -Kablar (889 m) (W)\n,
+        -Jelica (929 m) (S) and \n
+        -Vujan (857 m) (NE)."
+
+
+
+</string>
+
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="desc_content">
+        "Prehistoric\n\n"
+    </string>
+    <string name="desc_content1">
+       " The region has several archaeological sites, dating from prehistory to the present, the oldest from the 15th century BC.
+        Princely tombs of Greco-Illyrian type (Glasinac culture) were found in two mounds of Atenica with Ionian glass, glass-paste,
+        an amber bead depicting a swan, an Attic plaque of wild boar, dating to the late 6th century B. More ornithomorphic fibulae of bronze swans was found in Mojsinje.
+        Prehistoric tumuli have been unearthed in Mrčajevci.
+        The Triballi and Scordisci tribes lived in this area until the Romans came."
+    </string>
+
+    <string name="desc_content2">
+        "Roman era \n\n"
+    </string>
+    <string name="desc_content3">
+        "The town was inhabited in Roman times, with traces of the Roman settlement still visible today,
+        like Roman baths built in the 2nd to 4th century period. These still stand behind a secondary school in the center of Čačak.
+        Nearby, in the village of Gadina on the Jelica mountain, a Roman compound (fort) with a martyrium and necropolis has been excavated,
+        with three churches, one of which produced a pentanummion for the late Roman Emperor Justinian in the 526–537 period.
+        Justinian is also believed to have founded the fort in the 530s. The presence of burnt layers on the sight could be evidence that the settlement ended in violence.
+        In the same region, in the 6th century, four other forts were built"
+
+
+    </string>
+
+
+    <string name="desc_content4">
+       "Middle age\n\n"
+</string>
+    <string name="desc_content5">
+       "South Slavs settled this area during the reign of the Byzantine Emperor Heraclius (610–641).
+       From this period there are remains of sites in Culina, under the Kablar mountain.
+       From 1168 to 1189 Stefan Nemanja's brother Stracimir Zavidović controlled the West Morava region,
+       including Čačak (at that time Gradac). At this time he raised the church of Our Lady or Moravian Gradac.
+       The word Čačak means "mud" in the Turkish language. The Turks came here in 1459 and the Church was converted to a mosque."
+
+   </string>
+
+    <string name="desc_content6">
+
+        "16th century - present\n\n"
+        </string>
+    <string name="desc_content7">
+        "Suleiman the Magnificent, Catib Çelebi and Evliya Çelebi in 16th century and 17th century talked about Čačak as the main place in qadi.
+        1717. Čačak became a part of the Habsburg Empire after Austrians defeated Ottomans.
+        Austrian rule was short, however, because 21 years later Čačak again became a part of the Ottoman Empire.
+        After that Čačak became virtually deserted because most of its inhabitants migrated north, to the Habsburg Empire.
+        Their place was filled by people from Montenegro, Bosnia and Hercegovina and Old Vlach.
+        Čačak has two years on its coat of arms. The first is 1408 (from one of notes from Dubrovnik's archives), when the city was first recorded as Čačak,
+        and the second is 1815, the year the Second Serbian Uprising began and the battle of Ljubic hill was fought.
+        This battle is famous for the victory of the Serbian rebels who defeated a much stronger Ottoman army numbering 60,000 men.
+        In 1837 a grammar school was built, one of the first in Serbia. In the 1837–1941 period Čačak became a more modern town.
+        During World War II Čačak was part of the short-lived Republic of Užice, which was cut off by German forces shortly after it was founded.
+        On the 4 December 1944 Čačak was liberated by Yugoslav Partisans. It has since evolved into a large town and a regional center, later being given the status of a city."
+    </string>
+
+    <string name="settlements">
+
+        "Settlements\n\n"
+   "Aside from the urban area of the city, the administrative area includes 58 settlements.
+        Some of settlemnts are:"
+
+    </string>
+
+    <string name="society">
+
+    "Society and culture\n\n"
+    </string>
+    <string name="society1">
+    "This city traversed a long and thorny road from an anonymous settlement to a modern city in the 21st century.
+    The very face of the city, as seen in the facades, monuments, and cultural establishments,
+    is the reflection of the artistic spirit of its inhabitants.During the theatrical season there are numerous theatrical ensembles on tour from all of Serbia at the Cultural Centre.
+    The centre is home to a Drama Studio and schools of ballet, fine art and sculpture.
+    Exhibitions and performances, cultural and literary evenings are held at the "Nadežda Petrović" and "Risim" galleries,
+    the National Museum, the Salon of Photography, the Inter-Municipal Archive, the premises of the City Library,
+    the Pupil Centre, etc. Fine art and sculpture colonies are most often held at the Ovčar Banja spa resort.
+    There are numerous cultural, musical, entertainment and tourist manifestations within the city and close surroundings,
+    which attract multitudes of followers of ethno-culture, original folk music, like the Dis spring, Memorial to Nadežda Petrović
+    and the Flute festival in the nearby village of Prislonica, and other accompanying content.
+    In Guča, 10 kilometres (6.2 mi) south from Čačak, every year the Guča trumpet festival is held,
+    one of the most popular in the Balkans, alongside the Exit festival in (Novi Sad).
+    In Serbia, there are 6,000 "Ijadas", meaning festival celebrating certain food or music whose name ends with the suffix "ijada" .
+    The most popular in Čačak are Pitijada, Kupusijada, Fijakerijada, etc., that celebrate old traditions belonging to Serbs.
+    The current artwork production in the city can be followed through the auspices of groups and associations, private galleries,
+    colonies and numerous enthusiasts."
+
+
+</string>
+
+
+    <string name="education">
+
+        "Education\n\n"
+        </string>
+    <string name="education1">
+"There are three faculties located in Čačak; two of them are a part of the University of Kragujevac:
+
+1)Faculty of Agronomy
+2)Faculty of Technical Sciences
+3)Higher Technical School of Professional Studies
+There are seven secondary schools:
+
+1)Čačak's Grammar School (one of the oldest grammar schools in Serbia, 1837)
+2)High School of Economics
+3)Technical High School
+4)Medicine High School
+5)Machine High School
+6)Musical High School
+        There are many primary schools and childcare centers."
+
+
+
+    </string>
+
+    <string name="Tourism">
+
+
+        "Tourism\n\n"
+        </string>
+    <string name="Tourism1">
+        "In the vicinity of Čačak there are more than 20 churches and monasteries, the largest number found on such a small area in Serbia. They represent cultural and historic monuments of great significance. The most important ones are the Church of the Ascension of Jesus, a church on Ljubić hill dedicated to Saint Tsar Lazar, as well as the Vujan Monastery located on a nearby mountain of the same name. Special value is attributed to the monasteries of the Ovčar-Kablar Gorge, which as a cultural and historic whole date back to the Middle Ages and represent the particularity of the region's cultural and artistic heritage created over the centuries. There are 12 monasteries and churches in the gorge:
+
+-Uspenje
+-Vavedenje
+-Jovanje
+-Nikolje
+-Blagoveštenje
+-Vaznesenje
+-Preobraženje
+-Sretenje
+-Sveta Trojica
+-Ilinje
+-Savinje
+-Kadjenica\n
+Thermal and mineral springs with medicinal properties provide the basis for the development of recreational tourism. There are three spa resorts within the territory of the city of Čačak: Gornja Trepča, Ovčar Banja and Slatinska Banja. There are also picnic sites: Gradina and the "Battle and victory" park (also called "Spomen" (remembrance) park) on the Jelica mountain, the Memorial complex on Ljubić hill, Grujine fields, rafts on West Morava river in Beljina, Parmenac, Međuvršje and Ovčar Banja, and picnic sites on the tiny rivers called Dičina, Kamenica, Čemernica and Banja."
+
+
+
+    </string>
+
+    <string name="sport">
+
+        "Sport\n\n"
+        </string>
+
+    <string name="sport1">
+        "Čačak is nationally famous for its clubs in various sports; the most popular ones are basketball, football and handball. KK Borac Čačak and FK Borac Čačak have been participating in the First leagues of Serbia for many consecutive years with much success. Women's handball is also very successful and popular."
+    </string>
+    <string name="gradina">
+
+        "Gradina\n\n"
+        "Gradina is located on the mountain Jelica, in Dragačevo, 8 km southwest of Čačak on the way to Goračić. This dominant and remarkably visible jelica, 846 meters high, in prehistoric, early-Byzantine and medieval times, was inhabited and served as a permanent residence and shelter for people.
+        Gradina on Jelica as an archaeological site is first mentioned in the description of Janko Šafarić, the pioneer of Serbian archeology, from 1865. After this research, there were occasional random finds at this site, which were mostly blown up and are not currently located in Cacak. Unfortunately, the biggest destruction site was experienced in the 1950s, when a stone was used for filling the road Čačak - Goračići. At that time, a number of stone slabs with inscriptions were broken and removed, which may have been the name of this old fortified city, which is still secret for us. Today, part of the mobile findings from this site is in the permanent setting of the National Museum in Cacak. Since the mid-eighties of the twentieth century, excavations at this site have been managed by Dr Mihailo Milinković, Ph.D., of the Faculty of Philosophy in Belgrade, and they are still in progress. It has to be said that only a small part of the site, which is a protected cultural monument, has been explored so far.
+        According to the previous findings, until the first settlement of today's Gradina came about the 7th century BC. Found from the times of the Roman Empire, roughly from the 3rd century AD. So far, the most important horizon discovered at Gradini belongs to the time of the early-Byzantine empire with a focus in the 6th century. During the reign of Emperor Justinian (527-565), the entire empire was restored to old and raised new cities, as a defense against attacks by barbers (Germans, Avars and Slavs). Our ancestors came to these places too. Excavations on Gradina determined the traces of the fire, which suggests that in these settlements a settlement on Gradina was killed. There was also an arrow that was used by Avari.
+        In its not too long a time, the city of unknown name at Jelica was, for now, an important center of this part of Serbia. Within its ramparts covered the area of ​​about a few hectares, but the site extends to the surrounding slopes, where churches were surrounded by cemeteries. According to the information so far, two churches were located within the city, one of which was at the very top. She could sometimes be seen from a great distance. In the lower town there was a church with a walled baptistery, in which remains of 6th century frescoes were preserved, today exhibited in the National Museum in Cacak. In addition to the frescoes, a number of sculptured stone was discovered. In addition to the church on top there is a residence of a residential character. Figurative stone decorative objects, capitals and pillars were found there. Archaeological findings also speak about the presence of craftsmen and workshops.
+        In front of the ramparts there are the remains of three more churches, along with a number of tombs. There are also a number of finds related to the Germans, which speak of the symbiosis of the Romans and Germans who were probably in the military service.
+        Archaeological excavations at Gradina are still ongoing, which will complement and expand our knowledge of this important locality that has great historical and cultural significance for the entire area, as well as Serbia as a whole."
+    </string>
+
+
+    <string name="terme">
+        "Roman therms\n\n"
+
+        "During the excavation of the foundations of a residential and business building in the center of Cacak, in the part between Gospodar-Jovanova street and the City promenade, behind the hotel "Belgrade", near the Cultural Center and about 200 m south-southwest of the National Museum in Cacak, Buildings from the Roman era, whose name remained well-known in professional circles and a tourist map as the "Roman Terme". The location of the Roman Terme in Cacak was declared a cultural monument (Official Gazette No. 126 dated 14.04.1970) and is under the care of the National Museum in Cacak.
+        The late antique bath (spa) in the center of Cacak was erected on an elevated river plate, whose surface is slightly inclined towards the southeast."
+
+
+    </string>
+
+    <string name="riot">
+
+        "Mark of Hadzi Prodan's riot\n\n"
+        "The Hadzi-Prodan's monument is located in the southern part of the church port in Trnava. It was built of white marble in the form of a developed flag with a cross on the top. On the monument are relief group figures on the move. At the head of the group is the igman Pajsija, behind him Hadži-Prodan with the insurrections in a somewhat shallow relief.
+        The author of the monument is Leposav Milošević-Sibinović, an academic sculptor from Belgrade."
+    </string>
+
+    <string name="four">
+"Monument four faiths"
+
+        "A monument to warriors of four faiths was erected and augmented in 1934. Below him, in the ossuary, the Serbian warriors rest, but together with their enemies whose life was extinguished here also during one of the seven wartime years.
+        In the late years in Cacak, the auxiliary female section of Fidaka (the Association of Reserve Officers and Warriors) launched an action to raise the common memorial-casket at the Cacak cemetery, which was done with the help of the Ministry of Justice. The remains of 918 soldiers were laid in the new grave, of which 652 were Serbian warriors, from the Cacak region (109), the mine (96) and all other districts in Serbia.
+        Above the skeleton, according to the idea of Čačan engineer Isidor Janjić, the stone-cutter Francesco Berbelj, also from this place, built a pyramid of blue stone. Four different granite emblems were placed on its sides: the Orthodox cross, the Catholic cross, the Islamic crescent and the Jewish six-pointed star."
+
+
+    </string>
+
+    <string name="tanasko">
+
+"The memorial complex on Ljubic Hill is dedicated to warriors and events from the liberation wars of Serbia in the 19th and 20th centuries.The basic and oldest monument of this complex was erected, although not completed, in 1938 and dedicated to the color of Ljubic in 1815,with a special emphasis on the undertaking of Tanaska Rajic.The author of the project was sculptor Milovan Krstic."
+    </string>
+    <string name="duke">
+
+        "The monument to the Duke Stepa Stepanovic is in front of the post office in Cacak. He represents the duke in a standing position of a height of 245cm.The bronze bust was facing the house in which he lived, and from the monument to the house, they were placed on the street signs with the significance of the battles in which he participated. The monument was erected for the life of a celebrated commander, and the fence of the monuments is made of stone obelisks, which resemble cannon grenades in which the names of the places where he made the victories were inscribed."
+
+    </string>
+
+    <string name="church">
+        "Virgin of Gradacac in Cacak - The temple of the blessing of Christ\n\n"
+
+    </string>
+    <string name="church1">
+
+
+        "The church is located in the center of Cacak. Ktitor (builder) is Prince Stracimir, the brother of the great Countess Stefan Nemanja.
+        The temple was built from 1180 to 1190. The foundation of the church is rectangular, with a length of 29.75 m.
+        According to architecture, it is a very spacious temple with three-sided altar space on the eastern side, with bells and a high central dome with a range of almost 12 meters.
+        The Turks partially demolished the church and made an mosque, but the Serbs persistently renewed it.
+        The first renovation was carried out in 1834, and the second was significantly larger in 1856.
+        The outward appearance of the temple has changed radically. The belief that the Baroque style does not correspond to the old church of Cacak,
+        has begun a new restoration to bring back the medieval form. Samples were searched in old Raska temples. Here were found old bells buried in the country.
+        On one of them, an inscription was discovered in Old Slavic, which says that the Metropolitan Nikifor was given a bell,
+        and on the other that the bell was given to the Most Holy Mother of God Gradacka from 1454. The bell is one of the oldest in Serbia.
+        In the treasury of the Čačak church there are several old manuscripts. The most significant is the four-legend, known in science as "Cacanian".
+        In the collection of icons the most important is the Virgin Odigitrija with Christ. It is the work of an unknown painter from the 16th century,
+        with a beautiful frame. A large representative continent of the iconostasis owes its decorativity to the capable master of woodcarving Nikola Jankovic.
+        It is a rich carved herbal frieze with silver and gold foils.
+        According to the present knowledge, the central part of the temple had a standard square base and a traditional spatial structure: the inscribed cross.
+        The unusual spatial interior and the great size allow it to be compared only with the most magnificent churches of that time."
+    </string>
+
+    <string name="monasteries1">
+        "Monastery Jezevica"
+        </string>
+
+
+     <string name="monasteries2" >
+"The Ježevica Monastery is located in the same place in the vicinity of Cacak. The temple is dedicated to St. Nicholas and after the endowment it is the endowment of King Milutin. The monastery is often demolished during Turkish slavery and repaired by the Serbian people.\n"
+    </string>
+<string name="monasteries3">
+    "Monastery Stjenik"
+</string>
+<string name ="monasteries4">
+"The Stjenik Monastery is located at the foot of the Jelica mountain and dates from the Middle Ages. According to the tradition, the monastery was built by Mrnjavčevići brothers before the Battle of Marica. In the monastery, the remains of St. John the Stenich are preserved, which the Turks looted in 1802. In the vicinity of the monastery, a very hot spring comes under the big wall. For centuries the people respect the source and relics, believing that they have healing power.\n"
+
+ </string>
+<string name ="monasteries5">
+"Monastery Trnava"
+</string>
+    <string name ="monasteries6">
+"The Trnava Monastery is located in the village of Trnava, on the spring of the same river on the slopes of the mountain Jelica and is dedicated to Blagovestenje(Blessing of the God). The old monastery on whose foundations this temple was built was founded by Nemanjići in the Middle Ages. The temple was restored in 1554. Historically, this temple is extremely important because it was built in 1814 by the famous Hadzi-Prodan's riot in which the monks actively participated.\n"
+
+ </string>
+    <string name ="monasteries7">
+
+"Monastery Vujan"
+    </string>
+    <string name ="monasteries8">
+        "The Vujan Monastery is located 6 kilometers from Čačak, on the slopes of the Vujan Mountain and is dedicated to the Holy Archangel Michael, and as an exceptionally valuable cultural and historical monument under the protection of the state. It is assumed that it was built in the 14th century. The legendary warriors against the Turks in the First and Second Serbian Uprising, the Duke Lazar Mutap and Nikola Lunjevic, were buried in the monastery."
+  </string>
+
+    <string name="riot2">
+        "Mark of Hadzi Prodan's riot in church of village Trnava near Cacak"
+    </string>
+
+    <string name="riot3">
+        "Hadzi Prodan Gligorijevic drawing I.Uhlika, 1953"
+    </string>
+
+    <string name="painter">
+        "Nadežda Petrović (Čačak, October 12, 1873 - Valjevo, April 3, 1915) was the most important
+        Serbian painter at the end of the 19th and the beginning of the 20th century.
+        Born in Čačak on October 12, 1873, father Dimitrije - Mita Petrović and mother of Mileva born Zorić, the nephew of Svetozar Miletić. The family had 13 children of whom 9 survived, her younger sister is Milica Miskovic, and the youngest brother is a writer Rastko Petrovic.
+        With her family she moved to Belgrade in 1884. She finished her high school in Belgrade in 1891. Next, in 1892, he took the exam for a drawing teacher in secondary schools and became a student at the Djordje Krstic studio.1896/97. He is attending school at Cyril Kutljik.
+        From 1898 he began his education in Munich in the studio of the Slovenian Anton Ažbe.
+        Already in 1900, she had her first solo exhibition in Belgrade. In 1901 he started working at the studio of Julius-Exter in Munich.
+        In 1903, on August 26th, with Delfo Ivanić and Milica Dobri, he founded a humanitarian association Kolo srpskih sistara.
+        The Society was created in response to the pogrom of Christians in, as it was then considered to be the Old Serbia,
+        after the Ilinden Uprising. Nadezda even went to Macedonia with Milica Dobra at the end of 1903 and shared the humanitarian
+        aid that society gathered there. With them, Vojislav Tankosic, who worked on the creation of a Serbian Chetnik organization,
+        went under the mask of the follower. Nadezhda left her impressions of this dangerous trip in the drama of the Duke of Mica Porec,
+        where the main figure of the Duke Micko Krstic. Drama is not published for her life. Since 1904, he has been engaged in his homeland
+        around the First Yugoslav Art Exhibition,
+        the founding of Lada and the First Yugoslav Art Colony (Sićevo, Pirot, 1905). She also dealt with art criticism.
+        Until 1912, she exhibited at numerous exhibitions: Lada Exhibition; Exhibition of the Yugoslav colony 1907;
+        Exhibition of Serbian Art Association 1908; Second solo exhibition in Ljubljana 1910; the same year in Paris at the Autumn Salon
+        and in Zagreb within the Medulić group; In the following 1911, she exhibited in the Serbian Pavilion at the International Exhibition
+        in Rome, at the International Union Salon and the Autumn Salon in Paris.
+        In 1912, she opened a painting school in Belgrade and took part in the 4th Yugoslav exhibition.
+        Her father died in April 1911 and her mother was born in 1912. Their death was difficult to bear.
+        In the First Balkan War he participated as a volunteer nurse on the front. With the Serbian army it was again in 1913 and 1914.
+        She died in Valjevo on April 3, 1915, from the feverish typhus, she was on duty as a voluntary nurse.
+
+
+Since 1960, a painting biennale has been held in Cacak called Memorial of Nadezhda Petrovic."
+    </string>
+
+    <string name="painter1">
+
+        "The monument was performed by Ivan Mestrovic, one of the best sculptors brought by the Yugoslav people. In order to connect Mestrovic and Nadezda Petrovic we must return to 1904, when these two great artists me at the First Yugoslav Exhibition in Belgrade. They were honest friendship with each other. From that time, Nadezda's words have remained: ''Ivan is a talented artist, a mystic, a philosopher a precious stone that creates life with the gypsy eye that gives the spirit and expressions of his feelings to the originality of his ideas, with his creative spirit of ordinary dead clay.''On January 12, 1954, the President of the Cacak Museum Council, Vuk Petronijevic, sent a letter to Ivan Mestrovic in the US asking him to help with the idea of raising the monument Nadezda Petrovic in Cacak. On the same day,the Mayor sent a letter to Mestrovic, Radojko Krunic. A month later, he received the affirmative answer from a great sculptor. By agreement, they sent him all the necessary information and Nadezda's photographs. Interesting is the fact that the photos were very bad and that the facial features could not be clearly identified, but the famous sculptor clearly remembered all the details of Nadezda's face and kept them for more than 50 years in his head and heart. For his work he did not ask for compensation, he suggested that the bust be poured out in Zagreb.
+        He finished the figure until October 1954, and it was all over until September of the following year, when he arrived in Čačak. The monument was officially opened, in December 1955, academician Veljko Petrović, Nadezdin's  friend."
+    </string>
+
+
+    <string name="dom">
+     "Cultural Center Cacak"
+
+
+    </string>
+    <string name="dom1">
+        "Center of cultural events, firmly rooted in the overall social and economic life of the city, the Cultural Center is to a large extent the initiator and creator of the cultural habits of Cacan.
+        It is located in the city center, in a striking building (about 4,000 square meters of usable area),the author's work from the 1970s by architect Luo Šverer, Zagreb.
+        The idea of building and establishing the Culture Center was born in the late 1950s, after the abolition of the City National Theater, where other city festivals, literary evenings, lectures, concerts were held."
+    </string>
+<string name="biblioteka">
+
+    "City library Vladislav Petkovic Dis"
+</string>
+<string name="biblioteka1">
+
+
+    "The renowned citizens of Cacak, gathered around District Mayor Milija Dragićević on January 12, 1848, according to the old calendar, founded the Society of Reading Serbian-Slavic Novine, the oldest cultural institution in the city of Western Morava. On January 12, 1848, it became the forerunner of a later established Reading Room, Reading Room, Library and Library, a stone adjacent to the temple of written and printed words and knowledge. The followers of the Society founded in 1860 the Reading place, whose refreshment was advertised by the bells of Stracimir endowments and prangies, which speaks of the importance and honor given by our ancestors to the book.
+    The library is named after the poet Vladislav Petković Dis, the founder of modern Serbian poetry, the creator of Nirvana, Drowned souls, Maybe sleeping etc .
+    Today, the library has about 140 000 books, and within the legacy it keeps a large number of old and rare books. The library has about 5,000 regular members. In the last decades he has appeared as a significant publisher, and is also known outside the borders of Serbia for the poetry manifestation Dis Spring in honor of Vladislav Petkovic Dis and Poetry. Guests of Dis Spring" were the most important poets of the 20th century. The first Dis Spring was organized on April 13th 1964, when Branko V.Radicevic wrote to Dis monument."
+</string>
+
+    <string name="archive">
+      "Inter municipal historical archive"
+
+    </string>
+    <string name="archive2">
+
+        "Organized protection of archival material in the area of this institution begins on March 24, 1948, when the Archives Center was established in Čačak. The first manager of the institution was Margita Radović, professor of Čačanska gimnazija.
+        This institution has the task of taking care of archival material and registry material in the territory of the municipalities of Čačak, Gornji Milanovac and Lučani. It is located under the supervision of the Ministry of Culture of the Republic of Serbia, and is professionally connected with the parent company, the Archives of Serbia in Belgrade.
+        The archive is located in the building of the former County Council of Cacak, which was erected in 1877, in the street Gospodara Jovana br. 2. On the ground floor of the building are depots with archive material, and on the first floor of the workshop: library with reading room, photo labs and gallery archives. The building where the Archives are located was declared a cultural asset of great importance on February 11, 1974."
+    </string>
+
+    <string name="museum">
+        "National museum in Cacak"
+    </string>
+<string name="museum2">
+
+    "The residence of Lord Obrenovic in Čačak is the oldest preserved building after the church. It was erected in 1835 by Jovan Obrenovic, the brother of Prince Milos Obrenovic.
+    In it is now a museum setting of an old town house. On the outer facade of this house is painted the coat of arms of Obrenovic - the only preserved coat of arms in our country.
+    The National Museum in Cacak was founded on August 30, 1952. The permanent exhibition was opened in 1953. The National Museum contains three parts - an overview of the history from Neolithic to the Middle Ages, Ovčar-Kablar monasteries and churches of the Čačak region and Landscape of Cacak in the upraisings and wars 1804-1941. The five departments of the National Museum in Cacak keep close to 20,000 cases in their funds.
+    For 60 years of existence (1952-2012), the museum organized a total of 448 exhibitions, undertook 110 archaeological excavations, printed 181 publications. Since 1969, he regularly publishes his magazine Proceedings of the National Museum (41th issue was published in 2012), published 89 catalogs and 51 special editions (monographs, chamber of works from scientific meetings, guides). The Museum Library has 10,000 books and 548 titles of periodicals with 10,470 volumes.
+"
+</string>
+
+    <string name="gallery">
+
+        "Art gallery Nadezda Petrovic"
+    </string>
+    <string name="gallery1">
+        "Art Gallery Nadezda Petrovic (founded in 1961) is one of the oldest and most important institutions of this type in the country. The Gallery's activity is the protection of movable cultural goods and the monitoring of contemporary art production through exhibiting activities.
+        He has five collections: Nadezda and contemporaries, "Jugoslovenian painting from 2nd half of 20th century, Contemporary art, Memorial collection of Bogic Risimovic-Risim and collection Drawings and caricatures of Pierre Krizanic. In the rich art fund of XX century, he has over 500 works of which some representative exhibits, often masterpieces of their authors."
+    </string>
+<string name="gallery2">
+    "Art gallery Risim"
+</string>
+    <string name="gallery3">
+
+        "The gallery Risim is an integral part of the art gallery Nadežda Petrović and represents the legacy of the family Risimovic. It is a permanent exhibition of paintings by Bogic Risimovic-Risim, a painter, poet and storyteller, born on March 14, 1926 in Cacak.
+        In addition to the exhibition, gallery also organizes other programs: lectures, promotions, concerts. In the artistic life of our country, we do not participate only as a chronicler, or an observer, but as an animator and an active subject."
+    </string>
+
+    <string name="gorge">
+
+        "About Ovcharsko Kablarska gorge"
+    </string>
+    <string name="gorge1">
+
+        "Ovčarsko-Kablarska gorge is located in the central part of Serbia, within the Western Pomoravlje region, and separates the high Sumadija, in the north, from Dragačevo and Starovlaško-rašek high in the south. It belongs to those areas of Serbia that have attracted attention for centuries with their natural values ​​and monuments. The  natural features of the gardens are the striking massifs of Ovčara and Kablar, after which it was named. The main mass of these mountain elevations is made up of limestone from the Triassic period. A little gorge in Serbia is decorated with so-called fused meanders or thermal springs like this one. The main morphological characteristic of the gorge is the exquisitely expressed borders of the river flow of Morava and the lower, the lowest part of the valley, which our famous scientist Jovan Cvijić called frothy mendrams, or cluttered meanders. The Decree of the Government of the Republic of Serbia (Official Gazette of the Republic of Serbia No. 16/2000) Ovčarsko-Kablarska gorge was declared as a protected natural good of categories I - The area of ​​exceptional qualities. The protected area extends to 2250ha, of which 1700ha is in the municipality of Cacak, and 550ha in the municipality of Lučani. In the area of ​​the gorges, protection of II level (542 ha) and III degree (1707 ha) have been established.
+        Ovčarsko-kablarska gorge belongs to the ranks of those areas in Serbia that are known to the wider public by their natural beauties and monuments, which have attracted attention for centuries. The basic natural features of the gorge make relief, and above all the impressive massive Ovčara and Kablara, by which it was named. A little glacier in Serbia is decorated with soiled meanders or thermal springs like this one. Wrapped in beautiful and mysterious forests, with unforgettable landscapes, it's even more beautiful when her sky is closing an eagle or clicking a gray hawk."
+    </string>
+<string name="gorge2">
+
+    "Monastery Blagovestenje\n\n"
+    "The Blagovestenje Monastery is located on a gentle hill above the settlement of Ovčar Banja.
+    This is one of the few monasteries in Ovčarsko-Kablarska gorge, which is known exactly when it was built and who were the knights.
+    The inscription above the entrance to the church says that the temple was erected 1601/02. The temple was built in the architectural style of
+    Raska and its architecture is after the monastery of Sv. Three, the most beautiful monastery in Ovčarsko-Kablarska gorge.
+    The monastery has one of the oldest books, the Blagoveshchenski Gospel, founded in 1372. In its treasury, it also keeps a printed four-legend dating back to 1552. Patriarch Pavle was once minted in him."
+
+ </string>
+    <string name="gorge3">
+
+"Monastery Ilinje\n\n"
+"The monastery of Ilinje is located above the monastery Blagovesti. There are no data on when it was created or who built this monastery. Since it is near the monastery Blessing, it is presumed that the Blessed monks raised it as their target. The present monastery was built in 1938 on the foundations of the old monastery."
+</string>
+ <string name="gorge4">
+
+"Monastery Jovanje\n\n"
+"The monastery Jovanje is located on the left bank of the West Morava River, at its largest meander. No one can say with certainty who and when he built Jovanje. The old church dedicated to St. John was flooded in 1954 when building a hydroelectric power plant. The numerous devastation and ruin that this monastery suffered, completely destroyed almost all the traces of the original monastery. Thus, the treasure of a once-great temple disappeared. The most valuable items in the treasury are the two ceilings of the icons from 1850.
+    Today's monastery Jovanje is designed to combine old and new patterns in sacral architecture, giving a whole new achievement to the whole Ovčarsko-Kablarska Monastery."
+
+ </string>
+    <string name="gorge5">
+"Kađenica\n\n"
+"On the right bank of the West Morava, a kilometer upstream from Ovčar Banja, there is the cave Kađenica. The access to the cave is arranged, and the main hall, with a sign of cave jewelry, is at the same time a sacral and monumental space. Two stone sarcophagus and Christ's crucifix mark a miraculous event from the time of Hadzi-Prodan's rebellion in 1814. In the cave, in those bloody times, the confusion of people from the surrounding villages was hidden. The Turks discovered them, they stacked branches and storms and set fire to the entrance. All the people smothered the bathtub, i.e. smoke. Since then, this place has been called Cadjenica."
+</string>
+    <string name="gorge6">
+ 
+
+"Monastery Nikolje\n\n"
+"The monastery Nikolje, the oldest church among Ovčarsko-Kablar monasteries, was erected on the slopes of Kablar, on the left bank of the Western Morava. Based on architectural characteristics, it is assumed that it originates from the Middle Ages, most likely the end of the 14th or the beginning of the 15th century. The most important handwritten book in Serbian culture written at the beginning of the 17th century, the Karan Gospel, is kept in the monastery of Nikolje.
+
+There used to be up to 300 monks in Nikko. Milos Obrenovic and his family were hiding from the Turks. In the port of 1817, he built a conak that still exists and bears his name."
+
+ </string>
+    <string name="gorge7">
+"Monastery Preobrazenje\n\n"
+"The Monastery Preobrazenje is now on the right side of the Western Morava, on the northern slopes of Ovčara. In front of the monastery, across the river, a railway station was located in Ovčar Banja, where the monastery was once located, beneath the cliffs of Kablar. The first significance of the Monastery of Transfiguration in written sources is related to the year 1525. The Old Monastery The Transfiguration was demolished, by the approval of the bishop of Žiča Sava, in order to build a railroad to Užice. In 1938, Bishop Nikolai Velimirovic initiated an initiative for the construction of a new monastery Preobraženje. In this monastery, life is organized according to the Holy Roman rule, which means that there is neither a parochia nor a property, but a missionary role."
+
+ </string>
+    <string name="gorge8">
+
+"Savinje\n\n"
+    "The bottom of the steepest cliffs of the Kablar, in the rocky recess, springs water. It is believed that water, called Savina, is treating vision and headache. Near the spring of 1938, a small church was erected under the wall. In her about the holidays, the monks perform the worship of the monastery of the Transfiguration."
+
+ </string>
+    <string name="gorge9">
+
+"Sretenje\n\n"
+"The Sretenje Monastery is located in an exceptional natural setting, on the plateau below the Ovčara peak. Based on previous research it is believed that the monastery was built in the 16th century and on several occasions during the past times it was demolished and burnt. It was restored only in the 19th century, thanks to the monk, and later to the bishop Nikifor Maksimovic. From the manuscripts preserved to this day in Sretenje, there are only three: Gospel, the canon of the Virgin and Mine for June, which is significant because it contains the service of the Duke of Lazarus as the work of our church literature. From the treasury forged objects and antiques, marble baptistery and roses from the 17th century and the icon of the Most Holy Theotokos from the 18th century are preserved."
+</string>
+    <string name="gorge10">
+
+    "Monastery Sv. Trinity\n\n"
+"Church of the monastery of Sv. By its architecture, the Trinity is the most beautiful temple in Ovčarsko-Kablarska gorge, located on the southwestern wooded slopes of Ovčara. It was not established who and when he built the monastery. Based on previous knowledge that relies on Turkish lists, this monastery originates from the second half of the 16th century. This monastery suffered the sufferings at the end of the 17th century, as did other monasteries in Serbia. In the monastery of Sv. The Trinity is one large, prestigious gold and a heart embroidered with a cross of great artistic value. In addition to this cross, in the monastery of Sv. The Trinity contains two unique rare icons - the Savior and the Virgin - from the ancient value."
+
+ </string>
+    <string name="gorge11">
+
+"Uspenje\n\n"
+"At the elevation above the monastery Jovanje, there is the monastery Dawn which is visible from all sides of the gorge. It is mentioned in Turkish sources in 1536. It is dedicated to the Ascension of the Most Holy Theotokos. At this point there used to be a tower with a bell tower about 30 meters high. It is assumed that the tower was destroyed by the Turks at the same time as Jovanje. Bishop Nikolai found only ruins in this place. According to his wishes, a new church of the Uspenja Monastery was built, in 1939, as a faithful copy of the church of Sv. Emperor Constantine and Jelena in Ohrid. The original iconostasis was destroyed by Bulgarians in 1943. The monastery was re-established in 1998, and in 2004 it was inhabited by nuns.
+
+The monastery temple has several features that are rarely seen in other Serbian Orthodox churches. The church of the monastery of Uspenja has very small windows with a narrow rectangular shape, without any decoration. The church was never painted. In the monastery temple there are actually two churches that have, one, a common entrance. The left part of the temple is dedicated to the Ascension of the Most Holy Mother of God, and to the Right of the Seven Episcopal Martyrs."
+
+ </string>
+    <string name="gorge12">
+
+"Monastery Vavedenje\n\n"
+The Vavedenje Monastery was erected at the very beginning of the gorge. The stylistic characteristics of the original parts of the temple indicate that this monastery was built in the 16th century. The iconostasis of the monastery Vavedenje consist, among others, of the icon of Nikola Apostolović the Virgin with Christ and Jesus Christ. The imperial doors of the Blessed One are also preserved. The modest artistic unit that makes the iconostasis of this monastery complement the icons that have remained preserved.
+</string>
+ 
+    <string name="gorge13">
+"Monastery Vaznesenje\n\n"
+"The Vaznesenje Monastery was erected on the northern slopes of Ovčara. Thanks to one handwritten gospel, written in Vaznesenje in 1570, we are sure that the monastery existed in the 16th century. The monastery probably suffered, like most other monasteries in the gorge, during the Great Empire in 1690. After more unsuccessful attempts at renewal, only in the thirties of the 20th century, Bishop Nikolai Velimirovic began the reconstruction of this monastery."
+</string>
+<string name="flora">
+    "Flora"
+</string>
+    <string name="flora1">
+
+        "The largest area consists of forests and forest lands. With its diverse vegetation, it represents a true "museum in nature", in which there are multiple combinations of the common life of biologically different types of trees. The more pronounced forest belt in the gorge is the oak belt, within which thermophilic forest communities are preserved. These are areas under the forest of oak and cereals (Quercetum frainetto-cerris). On limestone in the same belt, the main type is the circulation and grass (Quercetum cerris-carpinetosum orientalis). On the ridges and meadolinaceous we find the sycamore forest of the type: Quercetum petraea, and in the bays and on the steep slopes of the mountain beech forest (Fagetum submontanum). At higher altitudes above 800 m, the mountain beech forest passes to the mountain (Fagetum moesiacae montanum). As in most of the slopes of Serbia, here is a characteristic appearance of the inversion of vegetation: in the lower parts there are mesophilic and in the highest, more thermophilic types of forests. A remarkable example of this phenomenon is the well-preserved community of maple, hornbeam and beech (Aceri-Ostryo-Fagetum). Increased humidity and total shelter in limestone bays, through which numerous streams flow, have enabled the vast development of vegetation with a multitude of woody species.One of the main features of the gorge, even these, is that they are refugiums of rare and relict flora and vegetation. In the group of relict communities, the remains of the black pine forest, which are located on the vertical limestone walls of Ovčara, occupy an extremely important place at about 900 m.n.v. Running from the competition of other species, the Black Pine preserved its natural habitat on the limestone cliff. Within the gorge, just below the steep limestone cliffs and the ridge of Mount Kablar, another relict plant with specific phytoclimus and land called Rusci aculeati-Quercetum mixtum, where the bark (Ruscus aculeatus) appears on the ground floor.
+        The most important for this gorge, whether it's the spruce forests, or the lobster formations, in the oak or transitional oak-beech belt is the presence of relict species from the tertiary period, such as: black grass (Ostrya carpinifolia), cer (Quercus cerris), (Quercus petraeae), Black ash (Fraxinus ornus), Ape campestre, Tilia parvifolia, Cotinus coggygria, Cornus mas, Ligustrum vulgare, Clematis vitalba, (Evonymus verrucosa) and others, so it is of great importance in the national context as a refugial habitat for rare and relict plant species and contributes to the preservation and increase of genetic, species and ecosystem diversity.Ovčarsko-kablarska gorge represents one of the few places in Serbia where a large number of wild orchid species can be found. So far, there are 19 species known to adorn the flora of the gorge. Some of the most famous species are Orchis Morio, Orchis simia, Ophris cornuta, Orchis apifera and others."
+    </string>
+
+<string name="fauna">
+
+    "Fauna"
+</string>
+<string name="fauna1">
+    "Birds are the most important animal group of Ovčarsko-Kablar gorge. The richness of the bird's world is conditioned by a series of ecological conditions, one of the most important relatively well-preserved diverse habitats. Various forest habitats, rocks and cliffs are particularly important in their character. Also, water habitats are of great importance, especially during migration and wintering periods for numerous species of birds.On the basis of the wealth of bird fauna, MCO is recognized as an internationally significant area for birds, i.e. IBA (Important Bird Area) area. Provides shelter for rare and endangered bird species, i.e. species that have an unfavorable protection status in Europe and which are the main population of the population outside Europe. Therefore, it is part of the ecological network of the Republic of Serbia and is included in the Natura 2000 program, which forms the backbone of the European Union to preserve nature and biodiversity. IBA area covers 6, 174 ha of protected area. So far, 160 species of birds have been recorded in Ovčarsko-Kablarska gorge. The total number of known breeding gardens is 101, while the modern fauna of the birds of the Ovcara-Kablarska Gorge number 98 species. From the aspect of protection, the most important species of birds of Ovčarsko-Kablar gardens are prdavac (Crex crex), gray beetle (Picus viridis), black dungeon (Dryocopus martius), green beetle (Picus viridis), gray falcon (Falco peregrinus) Pernis apivorus), buljina (Bubo bubo). Particular attention is paid to the gray falcon, the fastest hunter among the birds of prey, whose last couple on the territory of Cacak has survived right here. Sometimes much more numerous, gray falcon has been more and more persecuted by man for the last 10 years, which has led to a rapid decline in its number throughout Serbia. Thus, the population in Cacak from 4 pairs fell to just one pair, which still survives in the Ovcara-Kablarska gorge. The main prey of the gray falcon are the pigeons, which are hunted exclusively in flight, vertically rising from high altitudes. This makes him particularly hated by the pigeon, whose persecution represents the greatest risk factor for this species.
+During the autumn period, when bird migration is in full swing, as well as during the winter period, numerous bird species that are not part of the local bird fauna can be observed in Ovčarsko-Kablarska gorge. Black genus (Ciconia nogra), white poppy (Haliaeetus albicilla), large swan (Cygnus cygnus).
+About 40 species of mammals live in the Ovčarsko-Kablarska gorge. All species have a great ecological, biogenetic, faunistic, scientific, hunting and other significance. In terms of protection, species of international and national significance are particularly important. The most important representative of this animal group, from the aspect of international and national protection, is certainly an otter (Lutra lutra), which is endangered species all over Europe. The most endangering factor for this species is the disturbance and disappearance of the appropriate habitat, and therefore the best protection measure is proposed for the education of special protection areas. By implementing appropriate protection measures in Ovčarsko-Kablarska gorge, conditions for the survival of the otter in this area have been created. Also in the group of species that need protection of their habitats, it includes large (Rhinolophus ferrumequinum) and small (Rhinolophus hipposideros) horseman, long-eyed evening (Myotis bechsteinii) and large muscular evening (Myotis myotis).
+The Wild Cat (Felix silvestris) is one of the richest and most endangered species of mammals and the only species from the family of cats that inhabits this area. This, once a large and widespread species, has disappeared from the fauna of many parts of Serbia due to uncontrolled fading. Thanks to the complete ban on hunting in the protected area, this mysterious animal still adorns the fauna of Ovčar-Kablar Gorge.Fauna of the reptiles adorns 4 types of lizards and 5 species of snakes and 2 types of turtles. The only poison of this area is the Vipera ammodytes, which is the most poisonous type of snake in Europe. The jar is especially numerous on sunken rocky slopes and the cypresses of Kablar, while the hill is small on the sheep's side. The most important species in the fauna of reptiles from the aspect of protection are the forest turtle (Testudo hermanni) and the bar turtle (Emys orbicularis). Both species are significantly threatened throughout Europe and require special habitat protection by determining and sustainable management of Special Areas of Conservation. One of the more interesting types of lizards in this area is the short-headed lizard (Ablepharus kitaibelii). This hidden type of lizard has very reduced extremities that it almost does not use, so it moves with snake body movements. He is active at dusk and his main food is spicy and small snail.
+    The natives are the smallest group of vertebrates in the fauna of Ovčar-Kablar Gorge. So far, 9 species have been registered, of which the most important are the European and national aspects of the protection of the alpine marshmallow (Ichtyosaura alpestris) and the Yellowback Mocker (Bombina bombina). Both types have similar residence requirements. They live in forest ecosystems and use temporary ponds and water breeding pools.
+The western Morava, with its recognizable meanders and lake complex, is the most important hydrological component of the area. Ovčarsko-Kablarska gorge covers 14 km of the river flow of the Western Morava. By reconstructing the flow of the West Morava from two concrete dams, accumulation lakes Međuvršje and Lake Ovčar were created. 34 species of fish from 9 families have been recorded in the waters of the protected area. Out of the total number of registered species, 28 of them are in the original fish fauna of this area, while 6 species are introduced (gray tolstolobik, babushka, amur, amurski beetle, sunflower, American cat). These lakes are well known as attractive fishing spots and are rich in carp fish species. The most common carp fish are: carp, bamboo, bamboo, skobalj and others. The flowering trout is present in the protected area only in Banjski Potok. This watercourse, 5 km long, was harvested with young trout in 2012 and a special monitoring was introduced to ensure the survival of this species in the Ovčar-Kablar gorge. Species whose populations were previously numerous and widespread in the waters of the gorge, and today they are present only in traces or completely disappeared: Tinca tinca, Scardinius erythrophthalmus, large spindle (Zingelzingel) and manic (Lot of lots ). By the end of the twentieth century, intensive fishing, inadequate fertilization and environmental changes were significantly impeded by ecological relations in the waters of the Ovčar-Kablar Gorge, which also led to a decline in the number and disappearance of these fish. Linjak and the large vertebrate are endangered and severely protected species in Serbia, for which special protection programs are needed to ensure their survival.
+The Danube Butterfly Fauna The Ovcara-Kablar Gorge adorns over 70 species of butterflies grouped in five families, ie 50 genera, representing over 35% of all types of daily butterflies recorded in Serbia. A large number of species inhabiting this area has some of the status of endangered taxon in our country, while certain species are listed as endangered at the level of Europe."
+
+</string>
+
+    <string name="spa">
+        "Atomic spa Gornja Trepca"
+    </string>
+    <string name="spa1">
+
+        "At only 130 km from Belgrade, there is a unique Atomic Spa. Surrounded by wooded hills and mountains, at an altitude of 460 m, Atomska Banja Gornja Trepca represents a unique oasis of peace and tranquility. It is distinguished by the moderate-continental climate which gradually shifts to the mountainous area, which makes it very pleasant throughout the year. Rich vegetation cover, thick deciduous forests, meadows covered with flowers and medicinal herbs, at every step, seem to work with restraining and resting on the body.
+        The special hospital for rehabilitation includes several facilities (the new facility "Vujan" started operations in May 2012) with a total of 122 accommodation units and 277 beds. Facilities are modern buildings, fully adapted to the needs of patients and the most demanding guest, with single, double rooms and suites. Kindness and care for every guest contribute to a pleasant stay in this institution.
+        The certification of high standardized services, according to the most demanding European standards, both medical, catering and tourist, came with the assignment of ISO and HCCP standards.
+        Cooperation with numerous associations of MS patients from the EU as well as contracts with health funds of several countries is the best reference for the services of this spa.
+        During the summer months, the Cultural Year is organized in the framework of which concerts, theater performances, literary evenings, exhibitions are organized.
+        Staying at Atomska Banya is a unique opportunity to get to know the rich tradition, customs and modern creativity of central Serbia. The guests of the spa within the arrangement have the opportunity to learn about the rich cultural and historical heritage of this part of Serbia: the Monastery of the Ovčar-Kablar Gorge, the Vujan Monastery, the archaeological sites in Čačak and its surroundings. Excursions are organized to Mokra Gora and Zlatibor, Ethnic Park Terzića avlija and Potpećka cave.
+
+Thermomineral water, indications, rehabilitation
+
+Thermomineral water Atomic spas Gornja Trepca is poorly alkaline, hydrocarbonate, oligo mineral, acratoterma. The water temperature is 29.8 ° C. The PH value ranges between 7.4-7.5, so it is about poorly alkaline waters.Water analyzes performed in the last 60 years (Institute of Medical Hydrology and Climatology, Institute for Geological and Mining Research, Institute for Rehabilitation, etc.) show that the water is stable physical-chemical composition and temperature. This is confirmed by the claims that the waters of juvenile, volcanic origin. Capacity of the source is 13.9 l / sec.
+        Due to its specific physical and chemical characteristics, this water is a rare rarity. Concentrations of microelements, macroelements and radioactive elements, as well as their mutual relations, give it a specific healing effect, especially on the nerve and muscle tissue. Mineral waters examined on the territory of Upper Trepça can be used for interventional rehabilitation of patients with neurological diseases, especially proved to be effective in Sclerosis multiplex, rheumatic diseases (inflammatory and degenerative), as well as gastrointestinal tract and peripheral vascular diseases.
+        This is one of the most studied thermomineral waters in the territory of our country, and the first chemical analyzes date back to 1904 (Dr. Zege).
+        The water temperature allows the patients with cardiovascular diseases, under the supervision of doctors, to use rehabilitation treatments. Complete balneophysical treatment is carried out in therapeutic blocks equipped with state-of-the-art medical equipment and includes: hydrotherapy, kinesitherapy, manual massage etc. The high quality of medical services is contributed by a team of educated staff made up of physicians of specialists from several medical fields (physiatrists, neurologists, rheumatologists, internists), physiotherapists, nurses and others. staff.
+        Special results are achieved in the rehabilitation of Multiple Sclerosis, whereby the spa is unique in Europe. Research conducted under the auspices of the Institute of Neurology of the Clinical Center of Serbia conducted on the patients from this disease who were on rehabilitation at the Atomska Banka during 2010 show remarkable effects in the rehabilitation of the diseased. Other neurological diseases such as hemiplegia and hemiparesis, conditions after cerebrovascular accident, Parkinson's disease, cerebral palsy, polyneuropathies are successfully rehabilitated in this institution.
+        Rheumatic diseases, either degenerative (arthrosis, discathesis, spondylosis, discus hernia), either inflammatory (rheumatoid arthritis, spondyloarthropathies) were also monitored by clinical trials on a large number of patients who were on medical treatment at Atom Bay in 2010. The effects of rehabilitation in these patients have been shown to be very significant. This project was developed in cooperation with the Institute of Rheumatology in Belgrade."
+    </string>
+    <string name="spa2">
+
+        "Slatina spa"
+    </string>
+    <string name="spa3">
+
+        "The Slatina Spa is located at the foot of Mount Jelica, on the right bank of the River West Morava. It is 17 km from Cacak. The spa river - Dacinac, where the thermal zone is located, where thermal mineral water sources are located, flows along the river. The altitude of Slatinska Spa is 275 m.
+        A chemical analysis was carried out in 1957 and 1958 by the expert commission of the Institute of Medical Hydrology and Climatology of the Medical Faculty in Belgrade.
+        The waters of Slatina Spa are in the row of cold sulfur waters, which have the character of weak alkaline-salt waters. It consists of the following elements: potassium, lithium, rubidium, strontium, cesium, barium and phosphorus. This is just an information analysis, because more than 1 l of water (3-5 l) is needed for a more complete analysis, so that on the basis of a more complete analysis of Slatinska Spa, it will come to the list of sulfuric medicinal waters. On the basis of chemical analyzes, the waters of Slatina Spa contain sulfur dioxide more than other spas in Serbia.
+        The temperature of the mineral water of the Slatina Spa is 16.8 ° C. Slatinska Spa is recommended for the treatment of skin diseases and rheumatism, where it is necessary to restore water in the baths.
+        In the vicinity of Slatina Spa there is the immaculate cultural property of the Seoski Čardak, which has been declared a cultural monument, protected trees of the old oak."
+    </string>
+    <string name="spa4">
+
+        "Ovcar spa"
+    </string>
+    <string name="spa5">
+
+        "In the heart of Ovčarsko-Kablarska Gorge, surrounded by greenery of spacious forest complexes, the thermal mineral water of Ovčar Banja springs. This hidden pearl of nature is located on the 17th kilometer from Čačka on the way to Zlatibor, or the region of Western Serbia (M5). It is located in a smoother morphotectonic extension, at the mouth of the Banjski brod in the West Morava, at an altitude of 278 m.
+        In addition to thermo-mineral springs used in therapy, this spa is unique in Serbia because it is located in the area of ​​exceptional qualities, surrounded by rivers, lakes and pristine green mountains of the mountains Ovčar (985) and Kablar (885).
+        There is evidence that the Ovčar Spa  has been used to treat people from Roman times, through the Middle Ages and the Turkish period to the creation of a new Serbian state in the 19th century.
+        Sheepdog on 29 December 2011 officially got the spa status, which is of great importance for further development.
+        The special hydrographic characteristic is the thermal water in Ovčar Banja (350 - 380C). Water is a homeoterm, poorly sumptuous. Medicinal components of mineral water are macroelements - calcium and sodium; and microelements - potassium lithium, strontium, barium, iodine, bromine, phosphorus, fluorine.
+        Spa therapists who need therapy or preventive examination, at the service of professional medical staff within the Health Center. Water is beneficial for the treatment of several indication diseases: rheumatic, degenerative changes (spondylosis and arthritis), sports injuries, skin diseases.
+        Here, in a small area, there are ten medieval monasteries known as the "Serbian Sveta Gora". Ovčarsko-kablarski gorge monasteries preserve the spiritual and artistic wealth that has been created for centuries in this region. By visiting the monastery, guests of the Ovčar Spa can get acquainted with the history of the Serbian people, worthy of the cultural and historical heritage and the beauty of the Nikolje Monastery, the Transfiguration and Blessing that are located in the spa itself, but also in other monasteries on the slopes of the Ovčar and Kablar mountains.
+        Staying in Ovčar spa can be very comprehensive, and accommodation can be provided in several private houses and tourist and catering facilities located in the center of the spa. Among them is certainly the Wellness center "Kablar" which besides beautiful and comfortable rooms also offers various wellness facilities as well as a swimming pool with thermal mineral water. Restaurant "Dom" on the river bank offers besides gastronomic specialties and qualiate accommodation, but also a beautifully decorated coast in an ambience where guests of all ages can spend pleasant moments.
+        In addition to the sources of thermal mineral water, nature has given Ovčar to Banja river with rivers and lakes on which the athletes enjoy recreation, but also true nature lovers. In the Ovčar-Kablar Gorge area there are well-arranged fishing trails, so there are good conditions for dealing with sport fishing. Marked hiking trails arrive at the monastery where the spiritual peace passes through and enjoys in view of the nature, the appearance of forested mountains, the river Morava. Perhaps the greatest impression on the guest will leave the unusual scene from the top of the mountain Kablar - the meanders of the West Morava River and the town of Cacak in the distance.
+        Tourist organization Cacak organizes excursions to all these attractive places. Organized groups and individuals, accompanied by tourist guides, can visit monasteries, drive by boat to the West Morava River, and mountaineers to Ovčar and Kablar are organized for mountain peaks. For more demanding tourists, there is the possibility of dealing with extreme sports such as paragliding or alpinism.
+        During the summer months, concerts, performances, spiritual evenings, art colonies, sports events are organized in Ovčar Banja, among which the most attractive regatta, swimming marathon and a great mountain race."
+    </string>
+    <string name="active">
+        "Excursions"
+    </string>
+
+    <string name="active1">
+ "Ovčarsko-Kablarska gorge is an interesting area with numerous natural attractions and cultural and historical monuments. Attention is drawn to the Western Morava meanders, caves, diverse and rich flora and fauna, lakes and mountains of Ovčar and Kablar. Monasteries of the Ovčar-Kablar Gorge that originate from the Middle Ages, for centuries attract the attention of researchers, artists, believers and all lovers of historical and artistic values. Due to their long duration over time, they are a kind of specialty of our cultural and artistic heritage created for centuries.
+        On the slopes of Ovcar there are the Blagovestenje, Vaznesenje, Preobrazenje, Sretenje,Saint Trinity, and on the slopes of the Kablar are Jovanje, Uspenje, Nikolje, Blagovesti and Ilinje.
+        Marked footpaths, through beautiful landscapes, reach the monastery where peace is found and enjoy in view of the nature, the forests of the mountains, the river Moravu. From the gazebo at the top of the Kablar, the western meadows of the west and the town of Cacak are in the distance. For many this is the most beautiful view in Serbia.
+        Tourist organization Cacak organizes excursions to all attractive places in Ovčarsko-Kablarska gorge. Organized groups and individuals, accompanied by tourist guides, can visit monasteries, enjoy natural attractions, spend one or more days in one of the most beautiful peaks of Serbia with the noise of water and the birds' chirping."
+    </string>
+
+
+    <string name="active2">
+        "Active vacation"
+    </string>
+    <string name="active3">
+         "The Ovčar mountain and the Kablar mountain are suitable for mountaineering and there are marked hiking trails on them. Different degrees of weight and length and offer the pleasure of enjoying mountain climbing in view of the beautiful parts of the Ovčar-Kablar Gorge. The viewpoint at the top of Kablar has a special place in the memory of many tourists, because from the top of this mountain see the Western Moravans, the outlines of the surrounding mountains in the distance and the city of Čačak. Impressive is the river that runs between the vertical mountains and rush to meet the city that lives on its shores.
+        The conditions for dealing with spot fishing are good. In the area of ​​the Ovčar-Kablar Gorge there are arranged fishing trails. The water accumulations on the river are rich in species of biting, bark, pear, barbell, scab, carp etc.
+        Rafting, as well as boating on the river, flowing through the areas dominated by greenery, are experiences where you can enjoy the views of mountain landscapes, monasteries, and many bird species. The noise that comes from nature, water and greenery can be a sufficient reason for moments of rest and relaxation.
+        Mountain bike, kayak and canoe are available to lovers of active holidays in Ovčarsko-Kablarska gorge.
+        Alpinism as an extreme form of hiking becomes more and more interesting to sports lovers who require special psycho-physical preparations. Mountaineering Association "Kablar" organizes classes of alpinism in the winter and summer courses for visitors who have the desire to deal with this attractive sport.
+        Interested and curious, who would like to experience the incredible feeling of breathing under water, can attend diving courses in Ovčar Banja.
+        Paragliding fans can experience the true challenge and close encounter with nature if they choose to stay in the Ovcar and Kablar mountains. The starting position is a summit at the top of Ovčara, and then enjoys the view from the altitude to the slopes of the mountains, the complexes of the forest, the river, the lake. These are moments of memory and excitement, the conquest of new spaces and the shifting of their own boundaries."
+
+    </string>
+    <string name="active4">
+        "Country side tourism"
+
+    </string>
+    <string name="active5">
+
+        "The landscape of Cacak has favorable conditions for the development of tourism in the countryside. These are, above all, favorable conditions of preserved nature, with mild climate, clean air, rich flora and fauna. These benefits are especially pronounced in the Ovčarsko-Kablar gorge, on the slopes of Ovčar, Jelica and Vujna. Staying in nature provides tourists with the possibility of walking, recreation, organized excursions to nearby caves, springs, monasteries, with the possibility of hunting and fishing, hiking, reading of forest fruits and medicinal herbs and other activities in the countryside. Those who show interest in this can be involved in agricultural work. Tradition, folklore, original music, folk customs and other features of rural life, tourists can be presented through numerous tourist events and traditional events.
+        Villages in the vicinity of Cacak and Dragaceva are particularly attractive, as typical mountain villages, where in rural households, they can enjoy idyllic areas, clean air, in healthy foods produced in this area.
+        Accommodation facilities are available in the villages of Prislonica, Preljina, Dučalovići, Rošci, Donja Trepča, Loznica, Preljina, Mojsinje. Villages on the Ovčar, Kablar and Vujan mountains, at a favorable altitude with natural attractiveness and subplanetary climate, close to cultural and historical monuments and two spas, are a true choice of tourists who like nature and an active holiday in the countryside."
+    </string>
+
+
+    <string name="hotel">
+
+        "Hotel «BELGRADE»"
+    </string>
+    <string name="hotel1">
+        "address: Čačak, Gradsko šetalište bb\n\n"
+        "phone number:+381(0)32 224 592, +381(0)32 224 593\n\n"
+        "fax: +381(0)32 224 594"
+        "e-mail: office@hotelbeograd.rs\n\n"
+        "web: www. hotel-beograd.rs"
+    </string>
+    <string name="hotel2">
+        "Hotel «KOLE»\n\n"
+    </string>
+    <string name="hotel3">
+        "address: Čačak, Konjevići nn\n\n"
+        "phone number:+381(0)32 5456 501, 5459 767, 5381 804, 5380 095\n\n"
+        "fax: +381(0)32 5456 501"
+    </string>
+    <string name="hotel4">
+        "Hotel «LIVADE»"
+    </string>
+    <string name="hotel5">
+        "Čačak, Preljina nn\n\n"
+"phone number: +381(0)32 381 088, 381 100, 381 101\n\n"
+"e-mail:  livade@moravacacak.com"
+    </string>
+    <string name="hotel6">
+        "Hotel «MORAVA»"
+    </string>
+    <string name="hotel7">
+        "address: Čačak,Boulevar Vuk Karadžic 2\n\n"
+        "phone number:+381(0)32 333 988"
+    </string>
+    <string name="hotel8">
+        "Motel «ČAČAK»\n\n"
+    </string>
+    <string name="hotel9">
+        "address:Čačak, Bulevar oslobodilaca nn\n\n"
+"phone number: +381(0)32 5461 030"
+    </string>
+    <string name="hotel10">
+        "Other accommodation capacities"
+    </string>
+    <string name="hotel11">
+        "OVČAR SPA"
+    </string>
+    <string name="hotel12">
+        "Wellness centаr «KABLAR»"
+    </string>
+    <string name="hotel13">
+        "address: Ovčar spa\n\n"
+"phone number: +381(0)32 5596 180"
+    </string>
+    <string name="hotel14">
+        "Auto cаmp «OVČAR BANJA»"
+    </string>
+    <string name="hotel15">
+        "address: Ovčar spa\n\n"
+"phone number: +381(0)32 5596 110, 065/987 25 48"
+    </string>
+    <string name="hotel16">
+        "Restorаn with accommodation «DOM»"
+    </string>
+    <string name="hotel17">
+        "address: Ovčar spa\n\n"
+"phone number: +381(0)32 5596 200"
+    </string>
+    <string name="hotel18">
+        "Restaurant with accommodation «DOM»"
+    </string>
+    <string name="hotel19">
+        "address: Ovčar spa\n\n"
+"phone number: +381(0)32 5596 200"
+    </string>
+    <string name="hotel20">
+        "Restaurant with accommodation «DOM»"
+    </string>
+    <string name="hotel21">
+        "address: Ovčar spa\n\n"
+"phone number: +381(0)32 5596 200"
+    </string>
+    <string name="hotel22">
+        "The «SUNCE» resort"
+    </string>
+    <string name="hotel23">
+        "address: Ovčar spa\n\n"
+"phone number: +381(0)32 5596 178, 064/824 76 02"
+    </string>
+    <string name="hotel24">
+        "Villа «NENAD»"
+    </string>
+    <string name="hotel25">
+        "address: Ovčar spa\n\n"
+"phone number: +381(0)32 5596 117, 064/426 18 33"
+    </string>
+    <string name="hotel26">
+        "The «BLEF» Inn"
+    </string>
+    <string name="hotel27">
+        "address: Ovčar spa\n\n"
+"phone number: +381(0)32 5596 176, 5596 108, 064/210 14 09"
+        "web: www.blefovcarbanja.rs"
+    </string>
+    <string name="hotel28">
+        "Mountain House «KABLAR»"
+    </string>
+    <string name="hotel29">
+        "address: Ovčar spa\n\n"
+"phone number: +381 (0)63 642 403"
+
+    </string>
+    <string name="hotel30">
+        "Private accommodation OVČAR SPA"
+    </string>
+    <string name="hotel31">
+        "address: Ovčar spa\n\n"
+"phone number: +381(0)32 5596 366, 342 360, 343 721"
+
+    </string>
+    <string name="hotel32">
+        "ATOMIC SPA GORNJA TREPČA"
+    </string>
+
+    <string name="hotel33">
+        "Special rehabilitation hospital  GORNJA TREPČA"
+    </string>
+    <string name="hotel34">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 063, 822 075, 822 383"
+
+    </string>
+    <string name="hotel35">
+        "Gаrni hotel «FONTANA»"
+    </string>
+    <string name="hotel36">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 313, 822 314"
+
+    </string>
+    <string name="hotel37">
+        "Accommodation «ZDRAVLJAK»"
+    </string>
+    <string name="hotel38">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 327, 822 327, 822 328, 822 425"
+        "web: www.moravacacak.com"
+
+    </string>
+    <string name="hotel39">
+        "Restaurant with accommodation «ATOMSKI CVET»"
+    </string>
+    <string name="hotel40">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 450, 822 319"
+
+    </string>
+    <string name="hotel41">
+        "Restaurant with accommodation «MALINA»"
+    </string>
+    <string name="hotel42">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 324, 822 411"
+
+    </string>
+
+    <string name="hotel43">
+        "Villа «MONTE CARLO»"
+    </string>
+    <string name="hotel44">
+        "address: Gornja Trepča spa\n\n"
+"phone number:+381(0)32 822 305, 063/ 154 70 15"
+
+    </string>
+    <string name="hotel45">
+        "Villа «NN»"
+    </string>
+    <string name="hotel46">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 416"
+
+    </string>
+
+    <string name="hotel47">
+        "Villа «ANA»"
+    </string>
+    <string name="hotel48">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32  822 660, 065/433 89 19"
+
+    </string>
+    <string name="hotel49">
+        "Villа «M»"
+    </string>
+    <string name="hotel50">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 344, 063/436 769"
+
+    </string>
+    <string name="hotel51">
+        "Villа «BICIKLISTI»"
+    </string>
+    <string name="hotel52">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 361, 063/516 344"
+
+    </string>
+
+    <string name="hotel53">
+        "Accommodation «VITKO»"
+    </string>
+    <string name="hotel54">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 372, 063/1645 299"
+
+    </string>
+
+    <string name="hotel55">
+        "S.U.R. «IZVORI»"
+    </string>
+    <string name="hotel56">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 610, 333 436"
+
+    </string>
+
+    <string name="hotel57">
+    "Private accommodation ATOMSKA SPA
+Gornja Trepca"
+</string>
+<string name="hotel58">
+        "address: Gornja Trepča spa\n\n"
+"phone number: +381(0)32 822 455"
+
+    </string>
+
+    <string name="hotel59">
+        "OTHER ACCOMMODATION CAPACITIES ON THE TERRITORY OF THE CITY OF CACAK"
+    </string>
+    <string name="hotel60">
+        "Restaurant with accommodation «LOVAC»"
+    </string>
+    <string name="hotel61">
+        "address: Čačak, City bastion nn \n\n"
+        "phone number: +381(0)32 333 646"
+    </string>
+
+    <string name="hotel62">
+        "Catering center  «BABIĆ»"
+    </string>
+    <string name="hotel63">
+        "address: Čаčаk,  Street Doctor Dragiša Mišović nn\n\n"
+        "phone number: +381(0)32 365  040"
+    </string>
+    <string name="hotel64">
+        "SPC «KOLOS»"
+    </string>
+    <string name="hotel65">
+        "address: Čаčаk – Atenica,  Street Vladan Šićević nn\n\n"
+        "phone number: 381(0)32 368 666"
+        "fax: +381(0)32 286 026"
+        "e-mail: info@koloscacak.rs"
+    </string>
+
+    <string name="hotel66">
+        "Villа «PETROVIĆ»"
+    </string>
+    <string name="hotel67">
+        "address: Parmenac \n\n"
+        "phone number: +381(0)32 5589 970"
+
+    </string>
+    <string name="hotel68">
+        "Serbian national house «KNEGINJA»"
+    </string>
+    <string name="hotel69">
+        "address:Parmenac, Street Milosav Petrović 68\n\n"
+        "phone number: +381(0)32 5589 421"
+
+    </string>
+    <string name="hotel70">
+        "Accommodation «ZDRAVLJE»"
+    </string>
+    <string name="hotel71">
+        "address: Slatina spa\n\n"
+        "phone number: +381(0)32 826 041, 063/659 647"
+    </string>
+    <string name="hotel72">
+        "Private accommodation, Markićević Olivera"
+    </string>
+    <string name="hotel73">
+        "address: Slatina spa\n\n"
+        "phone number: +381(0)32 826 923, 060/0376 908"
+
+    </string>
+    <string name="hotel74">
+        "TOURISM IN THE COUNTRYSIDE"
+    </string>
+    <string name="hotel75">
+        "There is accommodation in villages Prislonicа, Preljinа and Gornjа Trepcа and guests can stay in the guests’ rooms of several households.
+
+ "
+    </string>
+
+
+    <string name="cafe">
+        "Restaurants"
+    </string>
+<string name="cafe1">
+    "LANTERNA"
+</string>
+    <string name="cafe2">
+        "
+location:Ovčar-Kablar gorge - Lake Međuvršje\n
+opened : 07am to 01am every day\n
+contact :+381 32 55 96 208 ;
++381 65 8882188\n
+        email: lanternabgd512@gmail.com"
+    </string>
+
+    <string name="cafe3">
+        "
+Restaurant of domestic kitchen «MORAVSKI ALASI» -ČAČAK"
+    </string>
+    <string name="cafe4">
+        "location: Street Prince Milos no.66\n
+contact: +381 (0) 32/345-509\n
+email: njegoslav@open.telekom.rs"
+    </string>
+
+    <string name="cafe5">
+        "Restaurant «Plaza»  - Lake Medjuvrsje,Ovcar spa,Cacak "
+    </string>
+    <string name="cafe6">
+        "contact: +381 32 5596 218."
+    </string>
+    <string name="cafe7">
+        "Santa Maria"
+    </string>
+    <string name="cafe8">
+        "Restaurant of domestic cuisine on the raft, Lake Medjuvrsje\n
+        contact: +381 (0)32  496 226"
+    </string>
+
+    <string name="cafe9">
+        "Restaurant ** «Dom» – Ovcar spa"
+    </string>
+
+    <string name="cafe10">
+        "contact: +381 (0)32 496 200"
+    </string>
+    <string name="cafe11">
+       "National houses"
+    </string>
+    <string name="cafe12">
+        "National house «Brvnara»"
+    </string>
+
+    <string name="cafe13">
+        "location: Street Prince Vasa Popovic 15, Cacak\n\n
+contact: +381 (0)32 349 132, 349-851\n\n
+Facebook page : BRVNARA"
+    </string>
+<string name="cafe14">
+    "Etno house «Eric»"
+</string>
+
+    <string name="cafe15">
+        "location: Mrcajevci, Cacak\n\n
+contact: +381(0)32 875-525, +381(0)64 583-45-29\n\n
+opened:  07am-23pm"
+    </string>
+
+    <string name="cafe16">
+        "«Mladost»"
+    </string>
+    <string name="cafe17">
+        "Nemanjina street 26\n\n
+contact: +381 (0) 32 348 712;
++381 (0) 32 343 042"
+    </string>
+
+    <string name="cafe18">
+       "Caffes and clubs"
+    </string>
+    <string name="cafe19">
+
+        "Caffe pizzeria «Prolece»"
+    </string>
+    <string name="cafe20">
+ "location: Zupana Stracimira n.n.\n\n
+contact +381 (0)32 341 852"
+        </string>
+
+    <string name="cafe21">
+"Caffe bar «Dolce vita»"
+        </string>
+    <string name="cafe22">
+"location: City promenade 8\n\n
+contact: +381 (0)32 349 989"
+
+</string>
+    <string name="cafe23">
+"Caffe bar «Kraljica»"
+        </string>
+    <string name="cafe24">
+"location Nemanjina 28,  Čačak\n\n
+contact: +381 (0)32 310 643"
+</string>
+    <string name="cafe25">
+"«Mondo»"
+        </string>
+        <string name="cafe26">
+"location: City promenade n.n.\n\n
+contact: +381(0)32 348 160"
+</string>
+    <string name="cafe27">
+
+"«Revolt»"
+        </string>
+    <string name="cafe28">
+"Nemanjina street 30\n\n
+opened: 07am-12am ;weekends 07am-01am\n\n
+contact: +381(0)32 349 432"
+
+</string>
+
+    <string name="cafe29">
+"«Sto da ne»"
+        </string>
+    <string name="cafe30">
+"location :Brace Glisica street 1"
+
+</string>
+    <string name="cafe31">
+
+"Caffe «Zuta kuca»"
+        </string>
+    <string name="cafe32">
+"location: Rajiceva street 2 "
+        </string>
+
+
+
+
+    <string name="cafe33">
+
+        "Pastry shops"
+    </string>
+
+    <string name="cafe34">
+
+        "«Slatko srce»"
+        </string>
+    <string name="cafe35">
+    "location: Kuzeljeva street\n\n
+opened:  8:00am do 11:00pm (summers 00:00am)\n\n
+weekend:  11:00am do 11:00am (summer 00:00am)"
+</string>
+    <string name="cafe36">
+
+    "Caffe and pastry shop «Dessert»"
+        </string>
+    <string name="cafe37">
+    "location: Kuzeljeva street 2\n\n
+contact: +381 (0) 32 343 883\n\n
+web: http://www.dessertcacak.rs\n\n
+email: dessert@eunet.rs"
+</string>
+    <string name="cafe38">
+
+    "Caffe and pastry shop «Galija»"
+        </string>
+    <string name="cafe39">
+    "location: City promenade 179\n\n
+contact: +381 (0) 32 225 727"
+ "
+    </string>
+</resources>
