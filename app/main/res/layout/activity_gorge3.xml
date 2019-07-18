@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.cacaktourguide.Monuments1Activity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/fauna"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:gravity="center"
+            android:text="@string/gorge"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            />
+
+
+        <TextView
+            android:id="@+id/fauna1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/fauna"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="@string/gorge1"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+
+            />
+        <ImageView
+            android:id="@+id/fauna2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/fauna1"
+            android:scaleType="center"
+            android:layout_below="@+id/fauna1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+        <ImageView
+            android:id="@+id/fauna3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/fauna2"
+            android:scaleType="center"
+            android:layout_below="@+id/fauna2"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+        <ImageView
+            android:id="@+id/fauna4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/fauna3"
+            android:scaleType="center"
+            android:layout_below="@+id/fauna3"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+        <ImageView
+            android:id="@+id/fauna5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/fauna4"
+            android:scaleType="center"
+            android:layout_below="@+id/fauna4"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+        <ImageView
+            android:id="@+id/fauna6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/fauna5"
+            android:scaleType="center"
+            android:layout_below="@+id/fauna5"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+        <ImageView
+            android:id="@+id/fauna7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/fauna6"
+            android:scaleType="center"
+            android:layout_below="@+id/fauna6"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"/>
+
+
+
+
+
+
+    </RelativeLayout>
+</ScrollView>
+
+

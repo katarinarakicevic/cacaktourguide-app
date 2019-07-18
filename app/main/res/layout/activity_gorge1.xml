@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.cacaktourguide.Monuments1Activity">
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/gorge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:gravity="left"
+        android:text="@string/gorge2"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        />
+
+    <ImageView
+        android:id="@+id/gorge1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/blagovestenje"
+        android:scaleType="center"
+        android:layout_below="@+id/gorge"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+    <TextView
+        android:id="@+id/gorge2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gorge1"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="@string/gorge3"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+
+        />
+    <ImageView
+        android:id="@+id/gorge3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/ilinje"
+        android:scaleType="centerCrop"
+        android:layout_below="@+id/gorge2"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gorge4"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_below="@id/gorge3"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/gorge4" />
+    <ImageView
+        android:id="@+id/gorge5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/jovanje"
+        android:scaleType="center"
+        android:layout_below="@+id/gorge4"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gorge5"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_below="@id/gorge5"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/gorge6" />
+    <ImageView
+        android:id="@+id/gorge7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/pecina"
+        android:scaleType="center"
+        android:layout_below="@+id/gorge6"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gorge6"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_below="@id/gorge7"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/gorge8" />
+    <ImageView
+        android:id="@+id/gorge9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/nikolje"
+        android:scaleType="center"
+        android:layout_below="@+id/gorge8"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gorge8"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_below="@id/gorge9"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/gorge10" />
+    <ImageView
+        android:id="@+id/gorge11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/sava"
+        android:scaleType="center"
+        android:layout_below="@+id/gorge10"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gorge9"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_below="@id/gorge11"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/gorge12" />
+    <ImageView
+        android:id="@+id/gorge13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/sretenje"
+        android:scaleType="center"
+        android:layout_below="@+id/gorge12"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gorge10"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_below="@id/gorge13"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/gorge14" />
+    <ImageView
+        android:id="@+id/gorge15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/trojice"
+        android:scaleType="center"
+        android:layout_below="@+id/gorge14"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gorge11"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_below="@id/gorge15"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/gorge16" />
+    <ImageView
+        android:id="@+id/gorge17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/uspenje"
+        android:scaleType="center"
+        android:layout_below="@+id/gorge16"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gorge12"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_below="@id/gorge17"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/gorge18" />
+    <ImageView
+        android:id="@+id/gorge19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/vavedenje"
+        android:scaleType="center"
+        android:layout_below="@+id/gorge18"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gorge13"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_below="@id/gorge19"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/gorge20" />
+    <ImageView
+        android:id="@+id/gorge21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/vaznesenje"
+        android:scaleType="center"
+        android:layout_below="@+id/gorge20"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"/>
+
+
+
+
+
+
+
+</RelativeLayout>
+    </ScrollView>
+

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+
+    >
+
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="50dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/head"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/society"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:textColor="#212121"
+                android:background="#d1c4e9"/>
+            <View
+                android:id="@+id/head_view"
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_below="@+id/head"
+                android:layout_marginTop="5dp"
+                android:layout_toLeftOf="@+id/show"
+                android:background="#311b92" />
+            <TextView
+            android:id="@+id/description_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="5"
+            android:text="@string/society1"
+            android:textStyle="italic"
+            android:textSize="20sp"
+            android:textColor="#212121"
+                android:layout_alignTop="@+id/head_view"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+
+
+            <ImageButton
+                android:id="@+id/show"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/description_text"
+                android:background="@drawable/arrowdown"
+                android:clickable="true" />
+
+            <View
+                android:id="@+id/view"
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_below="@+id/description_text"
+                android:layout_marginTop="5dp"
+                android:layout_toLeftOf="@+id/show"
+                android:background="#311b92" />
+
+            <ImageButton
+                android:id="@+id/hide"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/description_text"
+                android:background="@drawable/arrowup"
+                android:clickable="true"
+                android:visibility="invisible" />
+            <TextView
+                android:id="@+id/head1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/society"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:textColor="#212121"
+                android:background="#d1c4e9"
+                android:layout_below="@+id/show"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <View
+                android:id="@+id/head_view1"
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_below="@+id/head1"
+                android:layout_marginTop="5dp"
+                android:layout_toLeftOf="@+id/show"
+                android:background="#311b92" />
+            <TextView
+                android:id="@+id/text_one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="5"
+                android:text="@string/education1"
+                android:layout_below="@+id/head_view1"
+                android:textStyle="italic"
+                android:textSize="20sp"
+                android:textColor="#212121"
+             />
+
+
+            <ImageButton
+                android:id="@+id/id_show"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/arrowdown"
+                android:clickable="true"
+                android:layout_below="@+id/text_one"
+                />
+
+            <View
+                android:id="@+id/id_view"
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_below="@+id/text_one"
+                android:layout_marginTop="5dp"
+                android:layout_toLeftOf="@+id/id_show"
+                android:background="#311b92"
+
+                />
+
+            <ImageButton
+                android:id="@+id/hide_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/text_one"
+                android:background="@drawable/arrowup"
+                android:clickable="true"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/head2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Tourism"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:textColor="#212121"
+                android:background="#d1c4e9"
+                android:layout_below="@+id/id_show"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <View
+                android:id="@+id/head_view2"
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_below="@+id/head2"
+                android:layout_marginTop="5dp"
+                android:layout_toLeftOf="@+id/show"
+                android:background="#311b92" />
+            <TextView
+                android:id="@+id/text_two"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="5"
+                android:text="@string/Tourism1"
+                android:textStyle="italic"
+                android:textSize="20sp"
+                android:textColor="#212121"
+                android:layout_below="@+id/head_view2"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+
+            <ImageButton
+                android:id="@+id/id_show1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/arrowdown"
+                android:clickable="true"
+                android:layout_below="@+id/text_two"
+                />
+
+            <View
+                android:id="@+id/id_view1"
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_below="@+id/text_two"
+                android:layout_marginTop="5dp"
+                android:layout_toLeftOf="@+id/id_show1"
+                android:background="#311b92"
+
+                />
+
+            <ImageButton
+                android:id="@+id/hide_button1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/text_two"
+                android:background="@drawable/arrowup"
+                android:clickable="true"
+                android:visibility="invisible" />
+            <TextView
+                android:id="@+id/head3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/society"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:textColor="#212121"
+                android:background="#d1c4e9"
+                android:layout_below="@+id/id_show1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <View
+                android:id="@+id/head_view3"
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_below="@+id/head3"
+                android:layout_marginTop="5dp"
+                android:layout_toLeftOf="@+id/show"
+                android:background="#311b92" />
+            <TextView
+                android:id="@+id/text_three"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="5"
+                android:text="@string/sport1"
+                android:textStyle="italic"
+                android:textSize="20sp"
+                android:textColor="#212121"
+
+                android:layout_below="@+id/head_view3"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+
+            <ImageButton
+                android:id="@+id/id_show2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/arrowdown"
+                android:clickable="true"
+                android:layout_below="@+id/text_three"
+                />
+
+            <View
+                android:id="@+id/id_view2"
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_below="@+id/text_three"
+                android:layout_marginTop="5dp"
+                android:layout_toLeftOf="@+id/id_show2"
+                android:background="#311b92"
+
+                />
+
+            <ImageButton
+                android:id="@+id/hide_button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/text_three"
+                android:background="@drawable/arrowup"
+                android:clickable="true"
+                android:visibility="invisible" />
+        </RelativeLayout>
+        </ScrollView>
+</android.support.design.widget.CoordinatorLayout>

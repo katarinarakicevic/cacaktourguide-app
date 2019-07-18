@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.cacaktourguide.MonumentsActivity">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/riot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:gravity="center"
+            android:text="Mark of Hadzi Prodan's riot"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/riot1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/riot"
+            android:text="@string/riot"
+            android:textColor="@android:color/black"
+            android:textSize="22sp"
+
+            />
+
+        <ImageView
+            android:id="@+id/riot2"
+            android:layout_width="500dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/hadziprodan"
+            android:layout_below="@+id/riot1"
+            android:layout_alignRight="@+id/riot1"
+            android:layout_alignEnd="@+id/riot1"/>
+        <TextView
+            android:id="@+id/riot3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/riot2"
+            android:text="@string/riot3"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            />
+        <ImageView
+            android:id="@+id/riot4"
+            android:layout_width="500dp"
+            android:layout_height="200dp"
+            android:layout_below="@id/riot3"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/hadziriot"
+            />
+
+        <TextView
+            android:id="@+id/riot5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/riot4"
+            android:layout_marginTop="20dp"
+            android:text="@string/riot2"
+            android:textColor="@android:color/black"
+            android:textStyle="italic"
+            android:textSize="18sp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            />
+
+    </RelativeLayout>
+
+</ScrollView>
