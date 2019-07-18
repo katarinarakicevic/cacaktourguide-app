@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<manifest package="com.example.android.cacaktourguide" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+-<application android:theme="@style/AppTheme" android:supportsRtl="true" android:roundIcon="@mipmap/grb" android:label="@string/app_name" android:icon="@mipmap/grb" android:fullBackupContent="false">
+
+<activity android:name=".MainActivity"/>
+
+
+-<activity android:label="Welcome" android:name=".WelcomeActivity" android:parentActivityName=".MainActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".MainActivity"/>
+
+</activity>
+
+
+-<activity android:label="About Cacak" android:name=".AboutActivity" android:parentActivityName=".WelcomeActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".WelcomeActivity"/>
+
+</activity>
+
+
+-<activity android:label="Sighseeing places" android:name=".SightseeingActivity" android:parentActivityName=".WelcomeActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".WelcomeActivity"/>
+
+</activity>
+
+
+-<activity android:label="Accommodation" android:name=".PlacesActivity" android:parentActivityName=".WelcomeActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".WelcomeActivity"/>
+
+</activity>
+
+
+-<activity android:label="Cafes and restaurants" android:name=".CafesActivity" android:parentActivityName=".WelcomeActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".WelcomeActivity"/>
+/> 
+</activity>
+
+
+-<activity android:label="Useful Phones" android:name=".PhonesActivity" android:parentActivityName=".WelcomeActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".WelcomeActivity"/>
+
+</activity>
+
+
+-<activity android:label="@string/title_activity_scrolling" android:name=".ScrollingActivity" android:parentActivityName=".AboutActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".AboutActivity"/>
+
+</activity>
+
+
+-<activity android:label="Geography" android:name=".GeographyActivity" android:parentActivityName=".AboutActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".AboutActivity"/>
+
+</activity>
+
+
+-<activity android:label="History" android:name=".HistoryActivity" android:parentActivityName=".AboutActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".AboutActivity"/>
+
+</activity>
+
+
+-<activity android:label="Settlements" android:name=".SettlementsActivity" android:parentActivityName=".AboutActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".AboutActivity"/>
+
+</activity>
+
+
+-<activity android:label="Important people" android:name=".PeopleActivity" android:parentActivityName=".AboutActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".AboutActivity"/>
+
+</activity>
+
+
+-<activity android:label="Society" android:name=".SocietyActivity" android:parentActivityName=".AboutActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".AboutActivity"/>
+
+</activity>
+
+
+-<activity android:label="Gallery" android:name=".GalleryActivity" android:parentActivityName=".AboutActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".AboutActivity"/>
+
+</activity>
+
+
+-<activity android:theme="@android:style/Theme.Black.NoTitleBar" android:name=".SplashActivity">
+
+
+-<intent-filter>
+
+<action android:name="android.intent.action.MAIN"/>
+
+<category android:name="android.intent.category.LAUNCHER"/>
+
+<category android:name="android.intent.action.VIEW"/>
+
+</intent-filter>
+
+</activity>
+
+
+-<activity android:label="Gradina" android:name=".SightseeingActivity1" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Roman Thermes" android:name=".ThermsActivity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Mark of Hadzi Prodan's riot" android:name=".MonumentsActivity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="The town church of Cacak " android:name=".ChruchActivity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Monument Four Faiths" android:name=".Monuments1Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Monument Tanasko Rajic" android:name=".Monuments2Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Monument Duke Stepa Stepanovic" android:name=".Monuments3Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Monastery Jezevica" android:name=".Church1Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Monastery Stjenik" android:name=".Church2Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Monastery Trnava" android:name=".Church3Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Monastery Vujan" android:name=".Church4Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Cultural center Cacak" android:name=".CultureActivity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="City library Vladislav Petkovic Dis" android:name=".Culture1Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Inter municipal historical archive" android:name=".Culture2Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="The national museum Cacak" android:name=".Culture3Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Art Gallery Nadezda Petrovic" android:name=".Culture4Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Art gallery Risim" android:name=".Culture5Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="About gorge" android:name=".GorgeActivity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Monasteires" android:name=".Gorge1Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Flora" android:name=".Gorge2Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Fauna" android:name=".Gorge3Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Ovchar spa" android:name=".SpaActivity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Atomic spa Gornja Trepcha" android:name=".Spa1Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Slatinska spa" android:name=".Spa2Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Excursions" android:name=".VacationActivity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Country-side tourism" android:name=".Vacation1Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+
+-<activity android:label="Active vacation" android:name=".Vacation2Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+<activity android:label="Čačak Tour Guide" android:name=".Main2Activity"/>
+
+<activity android:label="Čačak Tour Guide" android:name=".GalleryViewActivity"/>
+
+<activity android:label="Čačak Tour Guide" android:name=".GalleryView2Activity"/>
+
+<activity android:label="Čačak Tour Guide" android:name=".GalleryView3Activity"/>
+
+<activity android:label="Čačak Tour Guide" android:name=".GalleryView4Activity"/>
+
+<activity android:label="Čačak Tour Guide" android:name=".GalleryView5Activity"/>
+
+<activity android:label="Čačak Tour Guide" android:name=".GalleryView6Activity"/>
+
+<activity android:label="Čačak Tour Guide" android:name=".GalleryView7Activity"/>
+
+
+-<activity android:label="Monument Nadezda Petrovic" android:name=".Monuments5Activity" android:parentActivityName=".SightseeingActivity">
+
+<!-- Parent activity meta-data to support 4.0 and lower -->
+
+
+<meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".SightseeingActivity"/>
+
+</activity>
+
+</application>
+
+</manifest>
