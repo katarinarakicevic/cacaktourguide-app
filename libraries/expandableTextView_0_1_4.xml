@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="expandableTextView-0.1.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/c48c7b995bc5aa94e660d5ca4936771e13fd5f98/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c48c7b995bc5aa94e660d5ca4936771e13fd5f98/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ms-square/expandableTextView/0.1.4/ef3493271430b98fc4c8f206adbde6354b185b0/expandableTextView-0.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
