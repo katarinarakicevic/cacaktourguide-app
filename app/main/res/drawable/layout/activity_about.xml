@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<LinearLayout tools:context="com.example.android.cacaktourguide.WelcomeActivity" android:orientation="vertical" android:background="@color/tan_background" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+<TextView android:background="@color/category_top" android:drawablePadding="5dp" android:drawableLeft="@mipmap/top" android:onClick="openTopList" android:text="@string/category_top" style="@style/CategoryStyle" android:id="@+id/top"/>
+
+<TextView android:background="@color/category_geography" android:drawablePadding="5dp" android:drawableLeft="@mipmap/word" android:onClick="openGeographyList" android:text="@string/category_geography" style="@style/CategoryStyle" android:id="@+id/geography"/>
+
+<TextView android:background="@color/category_history" android:drawablePadding="5dp" android:drawableLeft="@mipmap/history" android:onClick="openHistoryList" android:text="@string/category_history" style="@style/CategoryStyle" android:id="@+id/history"/>
+
+<TextView android:background="@color/category_settlements" android:drawablePadding="5dp" android:drawableLeft="@mipmap/place" android:onClick="openSettlementsList" android:text="@string/category_settlements" style="@style/CategoryStyle" android:id="@+id/settlements"/>
+
+<TextView android:background="@color/category_society" android:drawablePadding="5dp" android:drawableLeft="@mipmap/people" android:onClick="openSocietyList" android:text="@string/category_society" style="@style/CategoryStyle" android:id="@+id/society"/>
+
+<TextView android:background="@color/category_people" android:drawablePadding="5dp" android:drawableLeft="@mipmap/man" android:onClick="openPeopleList" android:text="@string/category_people" style="@style/CategoryStyle" android:id="@+id/people"/>
+
+</LinearLayout>
